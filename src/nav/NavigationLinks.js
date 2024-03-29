@@ -11,7 +11,7 @@ export default function NavigationLinks() {
         <Navbar bg="light" data-bs-theme="light" >
             <Container>
                 <Navbar.Brand href="/">Lindon Abarra</Navbar.Brand>
-                <Nav className="me-auto">
+                <Nav className="ms-auto">
                     <Nav.Link href="/">Home</Nav.Link>
                     <Nav.Link href="/tools">Tools</Nav.Link>
                     <Nav.Link href="/about">About</Nav.Link>
