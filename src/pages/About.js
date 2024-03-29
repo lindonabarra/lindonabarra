@@ -17,7 +17,7 @@ export default function About() {
                 <h1>Get in Touch</h1>
 
                 <p>
-                    I'm always eager to connect with fellow programmers, tech enthusiasts, and potential collaborators. If you have a project idea, want to discuss a technical challenge, or just want to say hello, feel free to reach out! You can contact me via email at <strong>lindonabarra.com</strong>
+                    I'm always eager to connect with fellow programmers, tech enthusiasts, and potential collaborators. If you have a project idea, want to discuss a technical challenge, or just want to say hello, feel free to reach out! You can contact me via email at <strong>lindonabarra@gmail.com</strong>
                 </p>
 
                 <p>
