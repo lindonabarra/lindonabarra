@@ -11,7 +11,7 @@ export default function Tools() {
                         <Card>
                             <Card.Body>
                             <Card.Link href="/tools/special-character-checker"><Card.Title>Special Character Checker</Card.Title></Card.Link>
-                                <Card.Text>Tool to check special characters</Card.Text>
+                                <Card.Text>Tool to check special characters and provide their equivalent unicode character</Card.Text>
                                 
                             </Card.Body>
                         </Card>

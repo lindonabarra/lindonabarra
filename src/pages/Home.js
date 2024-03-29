@@ -29,12 +29,12 @@ export default function Home() {
             <Container style={{ height: '100vh', backgroundImage: 'url("/xxx.jpg")', padding:'0px'}} fluid>
                 <NavigationLinks/>
                 <Row className="align-items-center justify-content-center" style={{height: '90%'}}>
-                    <Col md='auto'>
+                    <Col xs='auto'>
                         <Row>
                             <Col><h1 className="mb-0">{header}</h1></Col>
                         </Row>
                         <Row className="justify-content-end">
-                            <Col md='auto'><p>{subtitle}</p></Col>
+                            <Col xs='auto'><p>{subtitle}</p></Col>
                         </Row>
                     </Col>
 
