@@ -28,7 +28,7 @@ export default function Home() {
         <>
             <Container style={{ height: '100vh', backgroundImage: 'url("/xxx.jpg")', padding:'0px'}} fluid>
                 <NavigationLinks/>
-                <Row className="align-items-center justify-content-center" style={{height: '90%'}}>
+                <Row className="align-items-center justify-content-center" style={{height: '70%'}}>
                     <Col xs='auto'>
                         <Row>
                             <Col><h1 className="mb-0">{header}</h1></Col>
