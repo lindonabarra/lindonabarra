@@ -30,7 +30,7 @@ export default function About() {
 
                 <Row className="mt-5 ms-2">
                     <h3>Testimonials</h3>
-                    <Carousel indicators={false} prevIcon={<i class="bi bi-arrow-left-circle-fill text-info"></i>} nextIcon={<i class="bi bi-arrow-right-circle-fill text-info"></i>} >
+                    <Carousel indicators={false} prevIcon={<></>} nextIcon={<></>} >
                         <Carousel.Item>
                             <Row className='justify-content-evenly'>
                                 <Col xs='auto' className='mt-2'>
